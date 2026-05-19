@@ -4,7 +4,7 @@
 
 作者：ch-vpn  
 
-日期：2026-05-17
+日期：2026-05-19
 
 标签：Fnfun-VPN,科学上网, VPN, 翻墙,梯子,机场,Hysteria2,Vless+Reality,Hiddify,Karing
 
@@ -54,19 +54,19 @@
 
 > **说明**：排名并非绝对优劣，具体选择应结合个人或企业的实际使用场景。
 
-|     |                                                                       |                                                           |                             |
-| --- | --------------------------------------------------------------------- | --------------------------------------------------------- | --------------------------- |
-| 排名  | VPN服务                                                                 | 核心优势                                                      | 最低价格                        |
-| 1   | [**FnfunVPN**](https://g.htlink.top/s/ByAEhQ4_PmHS)                   | 不限制设备数量、高速稳定、4K视频秒开、顶级加密、全平台系统兼容、多节点支持、无日志、性价比超高、支持国内付款方式 | 10.99元（5天试用）<br/>23.99元（单月） |
-| 2   | [**ExpressVPN**](https://www.expressvpn.com/)                         | 10台设备数量、高速稳定、AES-256加密、全平台系统兼容、全球服务器                      | 12.99美元（单月）                 |
-| 3   | [**NordVPN**](https://nordvpn.com/)                                   | 10台设备数量、专用IP、安全性高、无日志、双重VPN、全球服务器                         | 12.99美元（单月）                 |
-| 4   | [**Surfshark**](https://surfshark.com/)                               | 不限制设备数量、广告拦截器、轮换 IP、Dynamic MultiHop                      | 15.45美元（单月）                 |
-| 5   | [**ProtonVPN**](https://protonvpn.com/)                               | 10台设备数量、无日志、强加密                                           | 9.99美元（单月）                  |
-| 6   | [**CyberGhost**](https://www.cyberghostvpn.com/)                      | 7台设备数量、高级加密、100+国家                                        | 12.99美元（单月）                 |
-| 7   | [**Private Internet Access**](https://www.privateinternetaccess.com/) | 不限制设备数量、无日志、广告拦截                                          | 11.99美元（单月）                 |
-| 8   | [**PurnVPN**](https://www.purevpn.com/)                               | 10台设备数量、全平台系统兼容                                           | 12.95美元（单月）                 |
-| 9   | [**StrongVPN**](https://strongvpn.com/)                               | 无日志、全平台系统兼容                                               | 11.99美元（单月）                 |
-| 10  | [**PrivateVPN**](https://privatevpn.com/)                             | 10台设备数量、无日志、全平台系统兼容                                       | 9.99美元（单月）                  |
+|     |                                                                       |                                                           |             |
+| --- | --------------------------------------------------------------------- | --------------------------------------------------------- | ----------- |
+| 排名  | VPN服务                                                                 | 核心优势                                                      | 最低价格        |
+| 1   | [**FnfunVPN**](https://g.htlink.top/s/ByAEhQ4_PmHS)                   | 不限制设备数量、高速稳定、4K视频秒开、顶级加密、全平台系统兼容、多节点支持、无日志、性价比超高、支持国内付款方式 | 10.99元（试用）  |
+| 2   | [**ExpressVPN**](https://www.expressvpn.com/)                         | 10台设备数量、高速稳定、AES-256加密、全平台系统兼容、全球服务器                      | 12.99美元（单月） |
+| 3   | [**NordVPN**](https://nordvpn.com/)                                   | 10台设备数量、专用IP、安全性高、无日志、双重VPN、全球服务器                         | 12.99美元（单月） |
+| 4   | [**Surfshark**](https://surfshark.com/)                               | 不限制设备数量、广告拦截器、轮换 IP、Dynamic MultiHop                      | 15.45美元（单月） |
+| 5   | [**ProtonVPN**](https://protonvpn.com/)                               | 10台设备数量、无日志、强加密                                           | 9.99美元（单月）  |
+| 6   | [**CyberGhost**](https://www.cyberghostvpn.com/)                      | 7台设备数量、高级加密、100+国家                                        | 12.99美元（单月） |
+| 7   | [**Private Internet Access**](https://www.privateinternetaccess.com/) | 不限制设备数量、无日志、广告拦截                                          | 11.99美元（单月） |
+| 8   | [**PurnVPN**](https://www.purevpn.com/)                               | 10台设备数量、全平台系统兼容                                           | 12.95美元（单月） |
+| 9   | [**StrongVPN**](https://strongvpn.com/)                               | 无日志、全平台系统兼容                                               | 11.99美元（单月） |
+| 10  | [**PrivateVPN**](https://privatevpn.com/)                             | 10台设备数量、无日志、全平台系统兼容                                       | 9.99美元（单月）  |
 
 > **说明**：排名顺序基于综合评分，具体选择需结合使用场景和网络环境。
 
