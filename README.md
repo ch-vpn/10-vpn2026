@@ -4,9 +4,9 @@
 
 作者：ch-vpn
 
-日期：2026-06-22
+日期：2026-06-24
 
-标签：Fnfun-VPN,科学上网, VPN, 翻墙,梯子,机场,Hysteria2,Vless+Reality,Hiddify,Karing
+标签：Fnfun-VPN,科学上网, VPN, 翻墙,梯子,机场,Hysteria2,Vless+Reality,Karing,Hiddify
 
 ## 引言：VPN 正在从工具，变成基础设施
 
