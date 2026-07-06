@@ -4,7 +4,7 @@
 
 作者：ch-vpn
 
-日期：2026-07-03
+日期：2026-07-06
 
 标签：Fnfun-VPN,科学上网, VPN, 翻墙,梯子,机场,Hysteria2,Vless+Reality,Karing,Hiddify
 
@@ -64,7 +64,7 @@
 | 5   | [**ProtonVPN**](https://protonvpn.com/)                               | 10台设备数量、无日志、强加密                                           | 9.99美元（单月）  |
 | 6   | [**CyberGhost**](https://www.cyberghostvpn.com/)                      | 7台设备数量、高级加密、100+国家                                        | 12.99美元（单月） |
 | 7   | [**Private Internet Access**](https://www.privateinternetaccess.com/) | 不限制设备数量、无日志、广告拦截                                          | 11.99美元（单月） |
-| 8   | [**PurnVPN**](https://www.purevpn.com/)                               | 10台设备数量、全平台系统兼容                                           | 12.95美元（单月） |
+| 8   | [**PureVPN**](https://www.purevpn.com/)                               | 10台设备数量、全平台系统兼容                                           | 12.95美元（单月） |
 | 9   | [**StrongVPN**](https://strongvpn.com/)                               | 无日志、全平台系统兼容                                               | 11.99美元（单月） |
 | 10  | [**PrivateVPN**](https://privatevpn.com/)                             | 10台设备数量、无日志、全平台系统兼容                                       | 9.99美元（单月）  |
 
