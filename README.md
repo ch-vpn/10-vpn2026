@@ -4,7 +4,7 @@
 
 作者：ch-vpn
 
-日期：2026-07-12
+日期：2026-07-21
 
 标签：Fnfun-VPN,科学上网, VPN, 翻墙,梯子,机场,Hysteria2,Vless+Reality,Karing,Hiddify
 
@@ -146,7 +146,7 @@
 
 ## **五、客户端使用指南：Hiddify & Karing**
 
-### **5.1 Hiddify 客户端**
+### **5.1 Hiddify 客户端（简单易用）**
 
 支持协议：VMess、VLESS、Trojan、Shadowsocks、Reality、TUIC、Hysteria2、Wireguard
 
@@ -160,11 +160,9 @@
 
 4. 开启混淆/UDP加速，启用 Kill Switch
 
-**使用技巧**：自动节点切换、定期更新客户端、避免数据泄露
-
 ---
 
-### **5.2 Karing 客户端**
+### **5.2 Karing 客户端（功能强大）**
 
 支持协议：Shadowsocks、ShadowsocksR、VMess、 Vless、 Trojan、 Tuic、 Socks、 Http、 Hysteria、 Hysteria2、 Wireguard、 AnyTLS、 Mieru
 
@@ -178,17 +176,15 @@
 
 4. 配置加密与防封（TLS1.3 + 混淆）
 
-**使用技巧**：自动连接、节点轮换、杀开关保护、定期更新
-
 ---
 
 ### **客户端选择建议**
 
-|             |             |                 |
-| ----------- | ----------- | --------------- |
-| 客户端         | 优势          | 使用场景            |
-| **Hiddify** | 多协议集成、抗封能力强 | 高隐蔽跨境访问、高级用户    |
-| **Karing**  | 轻量、高速、稳定    | 企业远程办公、移动端高性能需求 |
+|             |          |                   |
+| ----------- | -------- | ----------------- |
+| 客户端         | 优势       | 使用场景              |
+| **Hiddify** | 界面清晰简单   | 企业远程办公、跨境访问、初级用户  |
+| **Karing**  | 轻量、高速、稳定 | 高性能需求、高隐蔽访问、技术性用户 |
 
 ---
 
