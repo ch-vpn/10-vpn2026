@@ -4,7 +4,7 @@
 
 作者：ch-vpn
 
-日期：2026-08-05
+日期：2026-08-11
 
 标签：Fnfun-VPN,科学上网, VPN, 翻墙,梯子,机场,Hysteria2,Vless+Reality,Karing,Hiddify
 
@@ -148,7 +148,7 @@
 
 ### **5.1 Hiddify 客户端（简单易用）**
 
-支持协议：VMess、VLESS、Trojan、Shadowsocks、Reality、TUIC、Hysteria2、Wireguard
+支持协议：mixed、socks、http、 shadowsocks、 vmess、 trojan、 naive、 hysteria、 shadowtls、 tuic、 hysteria2、 vless
 
 **使用步骤**：
 
@@ -164,7 +164,7 @@
 
 ### **5.2 Karing 客户端（功能强大）**
 
-支持协议：Shadowsocks、ShadowsocksR、VMess、 Vless、 Trojan、 Tuic、 Socks、 Http、 Hysteria、 Hysteria2、 Wireguard、 AnyTLS、 Mieru
+支持协议：mixed、socks、http、 shadowsocks、 vmess、 trojan、 naive、 hysteria、 shadowtls、 tuic、 hysteria2、 vless、 anytls
 
 **使用步骤**：
 
@@ -172,7 +172,7 @@
 
 2. 导入服务商提供订阅链接或扫码二维码
 
-3. 选择协议（WireGuard 高性能，OpenVPN 稳定，Hysteria2 高速）
+3. 选择协议（naive更隐蔽、vless稳定naive更隐蔽、Hysteria2 高速）
 
 4. 配置加密与防封（TLS1.3 + 混淆）
 
